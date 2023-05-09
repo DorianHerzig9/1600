@@ -35,7 +35,7 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 | 1.1  |Ich will auf die Webseite zugreifen|Öffnen der Webseite|Ich kann auf die Homepage zugreifen|
 | 1.2  |Ich will auf eine/n Serie/Film zugreifen|Klicken auf das Thumbnails|Infos von der/m Serie/Film freigegeben|
 | 1.3  |Ich will auf der Homepage auf einen Suchfilter zugreifen|Das Draufklicken der Suchfilters|Der Suchfilter gibt mir eine Auswahl von Suchmöglichkeiten(A-Z/0-9)|
-| 2.1  | ------------ | ------- | ----------------- |
+| 2.1  |1.2 wurde betätigt und nun will ich auf die Infos zugreifen|Keine Eingabe nötig|Ich kann auf alle Infos Zugreifen|
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
