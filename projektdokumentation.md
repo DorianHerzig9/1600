@@ -14,7 +14,9 @@ cucumber, Meyer, Raviraj, Herzig
 ### 1.1 Ihr Projekt
 
 wir wollen eine Website, die alle beliebten Animes mit Beschreibungen und Rezensionen auflistet, erstellen
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+
+Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle populären Animes mit detaillierten Beschreibungen und Rezensionen auflistet. Das Projekt wird uns dabei helfen, unsere Webentwicklungsfähigkeiten zu verbessern, insbesondere in den Bereichen Front-End-Design und Back-End-Programmierung.Wir werden auch lernen, wie man eine skalierbare und benutzerfreundliche Website erstellt, die den Bedürfnissen der Nutzer gerecht wird.
+
 
 ### 1.2 User Stories
 
