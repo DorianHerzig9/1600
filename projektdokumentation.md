@@ -47,7 +47,20 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
+| 1.A  |  9.5. |           | Website erstellen und auf github Pages veröffentlichen | 30min |
+| 2.A  |  9.5. |           | Website Layout erarbeiten | 20min |
+| 2.B  | 16.5. |           | Grobe design Ideen erarbeiten | 30min |
+| 3.A  | 16.5  |           | Liste Mit Animes erstellen | 45min |
+| 3.B  | 16.5. |           | Thumbnails für Animes suchen |10min |
+| 3.C  | 16.5  |           | Rezensionen für Animes Suchen | 20min  |
+| 4.A  | 23.5. |           | Kurze Beschreibung für jeden anime erstellen und einfügen | 45min |
+| 4.B  | 23.5. |           | Bilder einfügen | 15min |
+| 4.C  | 23.5  |           | Rezensionen bei klicken auf Bild anzeigen | 60min |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
 | ...  |       |           |              |               |
 
 Total: 
