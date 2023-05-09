@@ -5,7 +5,7 @@ cucumber, Meyer, Raviraj, Herzig
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | Projektdokumentation erstellt und Planung ausgefüllt. |
+|09.05.2023|1| Projektdokumentation erstellt und Planung ausgefüllt. Angefangen mit dem HTML-index |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -13,17 +13,18 @@ cucumber, Meyer, Raviraj, Herzig
 
 ### 1.1 Ihr Projekt
 
-wir wollen eine Website, die alle beliebten Animes mit Beschreibungen und Rezensionen auflistet, erstellen
+wir wollen eine Website, die alle beliebten Filmen und Serien mit Beschreibungen und Rezensionen auflistet und erstellen.
 
-Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle populären Animes mit detaillierten Beschreibungen und Rezensionen auflistet. Das Projekt wird uns dabei helfen, unsere Webentwicklungsfähigkeiten zu verbessern, insbesondere in den Bereichen Front-End-Design und Back-End-Programmierung.Wir werden auch lernen, wie man eine skalierbare und benutzerfreundliche Website erstellt, die den Bedürfnissen der Nutzer gerecht wird.
+Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle populären Filme und Serien mit detaillierten Beschreibungen und Rezensionen auflistet. Das Projekt wird uns dabei helfen, unsere Webentwicklungsfähigkeiten zu verbessern, insbesondere in den Bereichen Front-End-Design und Back-End-Programmierung.Wir werden auch lernen, wie man eine skalierbare und benutzerfreundliche Website erstellt, die den Bedürfnissen der Nutzer gerecht wird.
 
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als Nutzer möchte ich einen Dark mode haben. |
-| ...  |                 |      |                                    |
+| 1    |Kann|Funktional| Als Nutzer möchte ich einen Dark mode haben.|
+| 2    |Kann|Funktional| Als Nutzer möchte ich auf die Thumbnails von Serie oder Filmes draufklicken um genauere Infos zu bekommen.|
+| 3    |Kann|Funktional| Als Nutzer möchte ich einen Suchfilter haben welchen ich zum finden von Filmen und Serien.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -31,8 +32,10 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |Ich will auf die Webseite zugreifen|Öffnen der Webseite|Ich kann auf die Homepage zugreifen|
+| 1.2  |Ich will auf eine/n Serie/Film zugreifen|Klicken auf das Thumbnails|Infos von der/m Serie/Film freigegeben|
+| 1.3  |Ich will auf der Homepage auf einen Suchfilter zugreifen|Das Draufklicken der Suchfilters|Der Suchfilter gibt mir eine Auswahl von Suchmöglichkeiten(A-Z/0-9)|
+| 2.1  | ------------ | ------- | ----------------- |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
