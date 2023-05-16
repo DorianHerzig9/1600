@@ -4,9 +4,9 @@ cucumber, Meyer, Raviraj, Herzig
 
 | Datum      | Version | Zusammenfassung                                                                     |
 | ---------- | ------- | ----------------------------------------------------------------------------------- |
-| 09.05.2023 | 1       | Projektdokumentation erstellt und Planung ausgefüllt. Angefangen mit dem HTML-index |
-|            | ...     |                                                                                     |
-|            | 1.0.0   |                                                                                     |
+| 09.05.2023 | 1.0.0   | Projektdokumentation erstellt und Planung ausgefüllt. Angefangen mit dem HTML-index |
+| 16.05.2023 | 2.0.0   |                                                                                     |
+|            |         |                                                                                     |
 
 ## 1 Informieren
 
@@ -20,9 +20,9 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 
 | US-№ | Verbindlichkeit | Typ        | Beschreibung                                                                                               |
 | ---- | --------------- | ---------- | ---------------------------------------------------------------------------------------------------------- |
-| 1    | Kann            | Funktional | Als Nutzer möchte ich einen Dark mode haben.                                                               |
+| 1    | Kann            | Funktional | Als Nutzer möchte ich einen Dark mode haben, damit ich meine Augen in der Nacht schonen kann.              |
 | 2    | Kann            | Funktional | Als Nutzer möchte ich auf die Thumbnails von Serie oder Filmes draufklicken um genauere Infos zu bekommen. |
-| 3    | Kann            | Funktional | Als Nutzer möchte ich einen Suchfilter haben welchen ich zum finden von Filmen und Serien.                 |
+| 3    | Kann            | Funktional | Als Nutzer möchte ich einen Suchfilter haben welchen ich zum finden von Filmen und Serien nutzen kann.     |
 
 ### 1.3 Testfälle
 
@@ -65,7 +65,6 @@ Total:
 ## 3 Entscheiden
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
-In unserer Webseite wollen wir einen Darkmode einbauen um die Hintergrund- und Schrifftfarbe zu verändern.
 
 
 ## 4 Realisieren
