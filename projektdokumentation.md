@@ -34,9 +34,9 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |Ich will auf die Webseite zugreifen|Öffnen der Webseite|Ich kann auf die Homepage zugreifen|
 | 1.2  |Ich will auf eine/n Serie/Film zugreifen|Klicken auf das Thumbnails|Infos von der/m Serie/Film freigegeben|
-| 1.3  |Ich will auf der Homepage auf einen Suchfilter zugreifen|Das Draufklicken der Suchfilters|Der Suchfilter gibt mir eine Auswahl von Suchmöglichkeiten(A-Z/0-9)|
 | 2.1  |1.2 wurde betätigt und nun will ich auf die Infos zugreifen|Keine Eingabe nötig|Ich kann auf alle Infos Zugreifen|
-
+| 3.1  |Ich will auf der Homepage auf einen Suchfilter zugreifen|Das Draufklicken der Suchfilters|Der Suchfilter gibt mir eine Auswahl von Suchmöglichkeiten(A-Z/0-9)|
+| 3.2  |3.1 wurde ausgeführt|Man klickt auf den Buchstaben "R"|Mir werden alle Filme mit "R" aufgelistet|
 
 ### 1.4 Diagramme
 
