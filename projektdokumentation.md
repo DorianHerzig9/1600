@@ -1,13 +1,12 @@
 # Projekt-Dokumentation
 
-
 cucumber, Meyer, Raviraj, Herzig
 
-| Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-|09.05.2023|1| Projektdokumentation erstellt und Planung ausgefüllt. Angefangen mit dem HTML-index |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| Datum      | Version | Zusammenfassung                                                                     |
+| ---------- | ------- | ----------------------------------------------------------------------------------- |
+| 09.05.2023 | 1       | Projektdokumentation erstellt und Planung ausgefüllt. Angefangen mit dem HTML-index |
+|            | ...     |                                                                                     |
+|            | 1.0.0   |                                                                                     |
 
 ## 1 Informieren
 
@@ -17,26 +16,23 @@ wir wollen eine Website, die alle beliebten Filmen und Serien mit Beschreibungen
 
 Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle populären Filme und Serien mit detaillierten Beschreibungen und Rezensionen auflistet. Das Projekt wird uns dabei helfen, unsere Webentwicklungsfähigkeiten zu verbessern, insbesondere in den Bereichen Front-End-Design und Back-End-Programmierung.Wir werden auch lernen, wie man eine skalierbare und benutzerfreundliche Website erstellt, die den Bedürfnissen der Nutzer gerecht wird.
 
-
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |Kann|Funktional| Als Nutzer möchte ich einen Dark mode haben.|
-| 2    |Kann|Funktional| Als Nutzer möchte ich auf die Thumbnails von Serie oder Filmes draufklicken um genauere Infos zu bekommen.|
-| 3    |Kann|Funktional| Als Nutzer möchte ich einen Suchfilter haben welchen ich zum finden von Filmen und Serien.|
-
-
+| US-№ | Verbindlichkeit | Typ        | Beschreibung                                                                                               |
+| ---- | --------------- | ---------- | ---------------------------------------------------------------------------------------------------------- |
+| 1    | Kann            | Funktional | Als Nutzer möchte ich einen Dark mode haben.                                                               |
+| 2    | Kann            | Funktional | Als Nutzer möchte ich auf die Thumbnails von Serie oder Filmes draufklicken um genauere Infos zu bekommen. |
+| 3    | Kann            | Funktional | Als Nutzer möchte ich einen Suchfilter haben welchen ich zum finden von Filmen und Serien.                 |
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-| 1.1  |Ich will auf die Webseite zugreifen|Öffnen der Webseite|Ich kann auf die Homepage zugreifen|
-| 1.2  |Ich will auf eine/n Serie/Film zugreifen|Klicken auf das Thumbnails|Infos von der/m Serie/Film freigegeben|
-| 2.1  |1.2 wurde betätigt und nun will ich auf die Infos zugreifen|Keine Eingabe nötig|Ich kann auf alle Infos Zugreifen|
-| 3.1  |Ich will auf der Homepage auf einen Suchfilter zugreifen|Das Draufklicken der Suchfilters|Der Suchfilter gibt mir eine Auswahl von Suchmöglichkeiten(A-Z/0-9)|
-| 3.2  |3.1 wurde ausgeführt|Man klickt auf den Buchstaben "R"|Mir werden alle Filme mit "R" aufgelistet|
+| TC-№ | Ausgangslage                                                | Eingabe                           | Erwartete Ausgabe                                                   |
+| ---- | ----------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------- |
+| 1.1  | Ich will auf die Webseite zugreifen                         | Öffnen der Webseite               | Ich kann auf die Homepage zugreifen                                 |
+| 1.2  | Ich will auf eine/n Serie/Film zugreifen                    | Klicken auf das Thumbnails        | Infos von der/m Serie/Film freigegeben                              |
+| 2.1  | 1.2 wurde betätigt und nun will ich auf die Infos zugreifen | Keine Eingabe nötig               | Ich kann auf alle Infos Zugreifen                                   |
+| 3.1  | Ich will auf der Homepage auf einen Suchfilter zugreifen    | Das Draufklicken der Suchfilters  | Der Suchfilter gibt mir eine Auswahl von Suchmöglichkeiten(A-Z/0-9) |
+| 3.2  | 3.1 wurde ausgeführt                                        | Man klickt auf den Buchstaben "R" | Mir werden alle Filme mit "R" aufgelistet                           |
 
 ### 1.4 Diagramme
 
@@ -46,27 +42,25 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  9.5. |           | Website erstellen und auf github Pages veröffentlichen | 30min |
-| 2.A  |  9.5. |           | Website Layout erarbeiten | 20min |
-| 2.B  | 16.5. |           | Grobe design Ideen erarbeiten | 30min |
-| 3.A  | 16.5  |           | Liste Mit Animes erstellen | 45min |
-| 3.B  | 16.5. |           | Thumbnails für Animes suchen |10min |
-| 3.C  | 16.5  |           | Rezensionen für Animes Suchen | 20min  |
-| 4.A  | 23.5. |           | Kurze Beschreibung für jeden anime erstellen und einfügen | 45min |
-| 4.B  | 23.5. |           | Bilder einfügen | 15min |
-| 4.C  | 23.5  |           | Rezensionen bei klicken auf Bild anzeigen | 60min |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
+| AP-№ | Frist | Zuständig | Beschreibung                                              | geplante Zeit |
+| ---- | ----- | --------- | --------------------------------------------------------- | ------------- |
+| 1.A  | 9.5.  | Herzig    | Website erstellen und auf github Pages veröffentlichen    | 30min         |
+| 2.A  | 9.5.  | Raviraj   | Website Layout erarbeiten                                 | 20min         |
+| 2.B  | 16.5. | Meyer     | Grobe design Ideen erarbeiten                             | 30min         |
+| 3.A  | 16.5  | Herzig    | Liste Mit Animes erstellen                                | 45min         |
+| 3.B  | 16.5. | Meyer     | Thumbnails für Animes suchen                              | 10min         |
+| 3.C  | 16.5  | Raviraj   | Rezensionen für Animes Suchen                             | 20min         |
+| 4.A  | 23.5. | Raviraj   | Kurze Beschreibung für jeden anime erstellen und einfügen | 45min         |
+| 4.B  | 23.5. | Herzig    | Bilder einfügen                                           | 15min         |
+| 4.C  | 23.5  | Meyer     | Rezensionen bei klicken auf Bild anzeigen                 | 60min         |
+| ...  |       |           |                                                           |               |
+| ...  |       |           |                                                           |               |
+| ...  |       |           |                                                           |               |
+| ...  |       |           |                                                           |               |
+| ...  |       |           |                                                           |               |
+| ...  |       |           |                                                           |               |
 
-Total: 
-
-
+Total:
 
 ## 3 Entscheiden
 
