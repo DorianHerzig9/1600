@@ -66,6 +66,11 @@ Total:
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
+1. Dark Mode: Wir haben uns dafür entschieden, einen Dark Mode in die Website zu integrieren, um den Nutzern die Möglichkeit zu geben, die Augen bei nächtlicher Nutzung zu schonen. Wir gehen davon aus, dass dies die Benutzerfreundlichkeit und das visuelle Erlebnis verbessern wird.
+
+2. Thumbnails für Filme und Serien: Wir haben beschlossen, Thumbnails für Filme und Serien in der Website einzufügen, damit die Benutzer durch Klicken auf die Thumbnails detailliertere Informationen erhalten. Wir gehen davon aus, dass dies den Nutzern dabei helfen wird, ihre gewünschten Filme oder Serien leichter zu finden und darauf zuzugreifen.
+
+3. Suchfilter: Wir werden einen Suchfilter implementieren, mit dem die Benutzer nach Filmen und Serien suchen können. Wir gehen davon aus, dass dieser Suchfilter den Nutzern helfen wird, die gewünschten Inhalte basierend auf verschiedenen Kriterien wie Alphabet, Genre oder anderen Filteroptionen zu finden.
 
 ## 4 Realisieren
 
