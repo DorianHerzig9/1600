@@ -65,6 +65,8 @@ Total:
 ## 3 Entscheiden
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+In unserer Webseite wollen wir einen Darkmode einbauen um die Hintergrund- und Schrifftfarbe zu verändern.
+
 
 ## 4 Realisieren
 
