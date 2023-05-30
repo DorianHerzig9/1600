@@ -22,7 +22,8 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 | ---- | --------------- | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | 1    | Kann            | Funktional | Als Nutzer möchte ich einen Dark mode haben, damit ich meine Augen in der Nacht schonen kann.              |
 | 2    | Kann            | Funktional | Als Nutzer möchte ich auf die Thumbnails von Serie oder Filmes draufklicken können, um genauere Infos zu bekommen. |
-| 3    | Kann            | Funktional | Als Nutzer möchte ich einen Suchfilter haben, damit ich Filme und Serien die mir gefallen könnten finden kann,      |
+| 3    | Kann            | Funktional | Als Nutzer möchte ich einen Suchfilter haben, damit ich Filme und Serien die mir gefallen könnten finden kann.|
+| 4.1    | Kann            | Qualitativ | Als Nutzer möchte ich eine übersichtliche und gut designte Seite um mich besser zurecht zu finden.      |
 
 ### 1.3 Testfälle
 
@@ -34,6 +35,7 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 | 3.1  | Ich will auf der Homepage auf einen Suchfilter zugreifen    | Das Draufklicken der Suchfilters  | Der Suchfilter gibt mir eine Auswahl von Suchmöglichkeiten(A-Z/0-9) |
 | 3.2  | 3.1 wurde ausgeführt                                        | Man klickt auf den Buchstaben "R" | Mir werden alle Filme mit "R" aufgelistet                           |
 
+
 ### 1.4 Diagramme
 
 ![image]<img width="323" alt="image" src="https://github.com/DorianHerzig9/1600/assets/110893245/3b54601e-0526-4b8a-85f3-41693a4be6da">
@@ -44,15 +46,23 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 
 | AP-№ | Frist | Zuständig | Beschreibung                                              | geplante Zeit |
 | ---- | ----- | --------- | --------------------------------------------------------- | ------------- |
-| 1.A  | 9.5.  | Herzig    | Website erstellen und auf github Pages veröffentlichen    | 30min         |
-| 2.A  | 9.5.  | Raviraj   | Website Layout erarbeiten                                 | 20min         |
-| 2.B  | 16.5. | Meyer     | Grobe design Ideen erarbeiten                             | 30min         |
-| 3.A  | 16.5  | Herzig    | Liste Mit Animes erstellen                                | 45min         |
-| 3.B  | 16.5. | Meyer     | Thumbnails für Animes suchen                              | 10min         |
-| 3.C  | 16.5  | Raviraj   | Rezensionen für Animes Suchen                             | 20min         |
-| 4.A  | 23.5. | Raviraj   | Kurze Beschreibung für jeden anime erstellen und einfügen | 45min         |
-| 4.B  | 23.5. | Herzig    | Bilder einfügen                                           | 15min         |
-| 4.C  | 23.5  | Meyer     | Rezensionen bei klicken auf Bild anzeigen                 | 60min         |
+| 0.A  | 9.5.  | Herzig    | Website erstellen und auf github Pages veröffentlichen    | 30min         |
+| 1.A  | 16.5. | Meyer     | Button für Darkmode implementieren                       | 30min         |
+| 2.A  | 16.5  | Herzig    | Liste Mit Filmen und Serien erstellen                     | 45min         |
+| 2.B  | 16.5. | Meyer     | Thumbnails in geeigneten Grössen und Formaten suchen      | 10min         |
+| 2.C  | 23.5. | Herzig    | Bilder einfügen                                           | 15min         |
+| 2.D  | 16.5  | Raviraj   | Rezensionen für Animes Suchen                             | 20min         |
+| 2.E  | 23.5. | Raviraj   | Kurze Beschreibung un Genre für jeden Film und jede Serie erstellen  | 45min   |
+| 2.F  | 23.5  | Meyer     | Rezensionen bei klicken auf Bild anzeigen                 | 60min         |
+| 3.A  | 30.5. |           | Als vorbereitung für filter jedem Film eine ID oder ein Genre zuweisen| 15min   |
+| 3.B  | 30.4  |           | Filterfunktion erstellen sodass nur gefilterte Filme und serien angezeigt/ausgeblendet werden    |    60min      |
+| 4.A  | 9.5.  | Raviraj   | Einige Farben, schriftarten und evt. Icons festlegen      | 20min         |
+| 4.B  | 9.5.  | Meyer     | Grobe design Ideen erarbeiten                              | 30min         |
+| 4.B  | 9.5.  | Raviraj   | Verschieden Farbpaletten testen                            | 20min         |
+
+
+
+
 | ...  |       |           |                                                           |               |
 | ...  |       |           |                                                           |               |
 | ...  |       |           |                                                           |               |
