@@ -21,8 +21,8 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 | US-№ | Verbindlichkeit | Typ        | Beschreibung                                                                                               |
 | ---- | --------------- | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | 1    | Kann            | Funktional | Als Nutzer möchte ich einen Dark mode haben, damit ich meine Augen in der Nacht schonen kann.              |
-| 2    | Kann            | Funktional | Als Nutzer möchte ich auf die Thumbnails von Serie oder Filmes draufklicken um genauere Infos zu bekommen. |
-| 3    | Kann            | Funktional | Als Nutzer möchte ich einen Suchfilter haben welchen ich zum finden von Filmen und Serien nutzen kann.     |
+| 2    | Kann            | Funktional | Als Nutzer möchte ich auf die Thumbnails von Serie oder Filmes draufklicken können, um genauere Infos zu bekommen. |
+| 3    | Kann            | Funktional | Als Nutzer möchte ich einen Suchfilter haben, damit ich Filme und Serien die mir gefallen könnten finden kann,      |
 
 ### 1.3 Testfälle
 
