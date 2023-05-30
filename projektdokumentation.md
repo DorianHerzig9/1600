@@ -36,7 +36,7 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 
 ### 1.4 Diagramme
 
-![image](https://user-images.githubusercontent.com/110893245/237046835-05647338-0802-4b9f-9445-179f2616096c.png)
+![image]<img width="323" alt="image" src="https://github.com/DorianHerzig9/1600/assets/110893245/3b54601e-0526-4b8a-85f3-41693a4be6da">
 
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
 
