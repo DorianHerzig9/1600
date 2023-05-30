@@ -1,0 +1,236 @@
+
+  .text {
+    color: rgb(0, 0, 0);
+    overflow: hidden; 
+    padding: 30px
+  }
+
+
+  .text-dark {
+    color: rgb(236, 236, 236);
+    overflow: hidden; 
+    padding: 30px
+    }  
+
+
+.nav-dark nav {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    background: rgb(13, 13, 13);
+  }
+
+ .nav nav {
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(252, 252, 252);
+    padding: 0px;
+    height: 100px;
+ }
+ 
+
+ #dark {
+    background: rgb(16,16,16,255);
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+
+ #light {
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  input {
+    z-index: 1;
+    cursor: pointer;
+    width: 42px;
+    height: 27px;
+    opacity: 0;
+    float: right;
+
+}
+
+.input {
+    cursor: pointer;
+    -webkit-appearance: none;
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    border-radius: 25px;
+    background-color: #ccc;
+    outline: none;
+    float: right;
+    right: 40px;
+    top: 40px;
+ }
+
+.input-dark::after {
+    cursor: pointer;
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    height: 1.25rem;
+    width: 1.25rem;
+    background-color: rgb(255, 255, 255);
+    float: right;
+
+}
+
+
+.input-dark {
+    cursor: pointer;
+    -webkit-appearance: none;
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    border-radius: 25px;
+    background-color: rgb(0, 149, 255);
+    outline: none;
+    float: right;
+    right: 40px;
+    top: 40px;
+ }  
+
+ .input::after {
+    cursor: pointer;
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    height: 1.25rem;
+    width: 1.25rem;
+    background-color: white;
+    float: right;
+}
+
+
+
+#FilminfoZ-dark {
+    cursor: pointer;
+    width:  175px;
+    height: 100px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+
+}
+
+#FilminfoZ {
+  cursor: pointer;
+  float: left;
+  width:  170px;
+  height: 100px;
+  background-position: 50% 50%;
+  background-repeat:   no-repeat;
+  background-size:     cover;
+
+}
+
+#navtext-dark {
+    color: rgb(224, 224, 224);    
+    padding: 30px;
+    text-decoration: none;
+    position: relative;
+    bottom: 37px;
+    }
+
+#navtext-dark:hover {
+   background: rgb(16,16,16,255);
+    color: rgb(255, 255, 255);
+    padding: 30px;   
+    position: relative;
+    bottom: 37px;
+  }
+
+
+#navtext {
+    color: rgb(0, 0, 0);    
+    padding: 30px;
+    text-decoration: none;
+    top: 43px;
+    position: relative;
+}
+
+#navtext:hover {
+
+ }
+
+
+body::-webkit-scrollbar {
+  width: 6px; /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: rgb(16,16,16,255);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: rgb(0, 149, 255); /* color of the scroll thumb */
+  border-radius: 20px; /* roundness of the scroll thumb */
+
+}
+
+
+
+
+
+.scroller {
+  display: flex;
+  align-items: center;
+  overflow-x: scroll;
+  scroll-behavior: smooth;
+  margin-bottom: 100px;
+  width: 100%;
+}
+
+.scroller img {
+  height: 300px;
+  cursor: pointer;
+  flex-direction: column;
+  margin: 0 20px;
+  display: block;
+}
+
+.subtitle {
+  margin-top: 5px; /* Adjust the vertical spacing between movie and subtitle */
+  text-align: center;
+}
+
+.bottom-navbar {
+  background: rgb(13, 13, 13);
+  color: #fff;
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 0; /* Adjust the padding to increase the size vertically */
+  height: 80px; /* Adjust the height to increase the size vertically */
+}
+
+.bottom-navbar nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.bottom-navbar nav ul li {
+  padding: 0px 20px;
+}
+
+.bottom-navbar nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.bottom-navbar nav ul li a:hover {
+  text-decoration: underline;
+}
