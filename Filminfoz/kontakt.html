@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <title>Filminfoz - Über uns</title>
+    <link rel="icon" type="images/x-icon" href="https://www.w3docs.com/favicon.ico" />
+    <style>
+      /* Hier sind die CSS-Stile für das Kontaktformular */
+      .contact-form {
+        max-width: 400px;
+        margin: 0;
+        padding: 0;
+      }
+
+      .contact-form label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: bold;
+      }
+
+      .contact-form input,
+      .contact-form textarea {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 15px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        resize: vertical;
+        color: black; /* Add this line to ensure text color is black */
+      }
+
+      .contact-form input[type="submit"] {
+        background-color: #4caf50;
+        color: white;
+        cursor: pointer;
+      }
+
+      .contact-form input[type="submit"]:hover {
+        background-color: #45a049;
+      }
+
+      /* Additional styles to align the form to the left */
+      .text-dark {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        flex-direction: column;
+      }
+    </style>
+  </head>
+  <body id="dark">
+    <div class="nav-dark">
+      <nav>
+        <img id="FilminfoZ-dark" src="https://imgtr.ee/images/2023/05/10/lvlUB.png" alt="" onclick="window.location.href = 'index-dark.html';">
+        <a id="navtext-dark" href="filme-dark.html">Filme</a>
+        <a id="navtext-dark" href="serien-dark.html">Serien</a>
+        <div class="input-dark">
+          <input type="checkbox" onclick="window.location.href = 'filme.html';">
+        </div>
+      </nav>
+    </div>
+
+    <div class="text-dark">
+      <h1>Kontakt</h1>
+      <div class="contact-form">
+        <form action="formularverarbeitung.php" method="POST">
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" required>
+          <label for="email">E-Mail:</label>
+          <input type="email" id="email" name="email" required>
+          <label for="message">Nachricht:</label>
+          <textarea id="message" name="message" rows="4" required></textarea>
+          <input type="submit" value="Senden">
+        </form>
+      </div>
+    </div>
+
+    <footer class="bottom-navbar">
+      <nav>
+        <ul>
+          <li><a href="aboutus.html">Über uns</a></li>
+          <li><a href="kontakt.html"><strong>Kontakt</strong></a></li>
+        </ul>
+      </nav>
+    </footer>
+  </body>
+</html>

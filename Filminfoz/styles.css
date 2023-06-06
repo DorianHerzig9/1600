@@ -178,6 +178,23 @@ body::-webkit-scrollbar-thumb {
 
 
 
+.scroll-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 5px;
+  background-color: #ddd;
+  border: none;
+  cursor: pointer;
+}
+
+.scroll-button.prev {
+  left: 5px;
+}
+
+.scroll-button.next {
+  right: 5px;
+}
 
 
 .scroller {
@@ -233,4 +250,94 @@ body::-webkit-scrollbar-thumb {
 
 .bottom-navbar nav ul li a:hover {
   text-decoration: underline;
+}
+
+.search-container {
+  background-color: white;
+  float: right;
+  display: flex;
+  align-items: center;
+  position: relative; /* Add this line */
+  z-index: 999; /* Add this line */
+  float: right;
+  right: 200px;
+  top: 40px;
+  border-radius: 30px; /* Add this line */
+  height: 30px;
+}
+
+.search-input {
+  color: rgb(224, 224, 224);    
+  float: right;
+  padding: 5px;
+  width: 200px;
+  background-color: white;
+}
+
+.search-button {
+  float: right;
+  padding: 5px 10px;
+  margin-left: 5px;
+}
+
+.contact-form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+.contact-form input[type="submit"] {
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+}
+
+.contact-form input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+.contact-form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+.contact-form input[type="submit"] {
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+}
+
+.contact-form input[type="submit"]:hover {
+  background-color: #45a049;
 }
