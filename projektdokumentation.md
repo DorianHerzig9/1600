@@ -88,19 +88,19 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 0.1  |       |          | Sanjay Raviraj |
-| 1.1  |       |          | Sanjay Raviraj |
-| 2.1  |       |          | Sanjay Raviraj |
-| 2.2  |       |          | Sanjay Raviraj |
-| 2.3  |       |          | Sanjay Raviraj |
-| 2.4  |       |          | Sanjay Raviraj |
-| 2.5  |       |          | Sanjay Raviraj |
-| 2.6  |       |          | Sanjay Raviraj |
-| 3.1  |       |          | Sanjay Raviraj       |
-| 3.2  |       |          | Sanjay Raviraj       |
-| 4.1  |       |          | Sanjay Raviraj       |
-| 4.2  |       |          | Sanjay Raviraj       |
-| 4.3  |       |          | Sanjay Raviraj       |
+| 0.1  | 27.06.2023 |          | Sanjay Raviraj |
+| 1.1  | 27.06.2023      |          | Sanjay Raviraj |
+| 2.1  | 27.06.2023      |          | Sanjay Raviraj |
+| 2.2  | 27.06.2023      |          | Sanjay Raviraj |
+| 2.3  | 27.06.2023      |          | Sanjay Raviraj |
+| 2.4  | 27.06.2023      |          | Sanjay Raviraj |
+| 2.5  | 27.06.2023      |          | Sanjay Raviraj |
+| 2.6  | 27.06.2023      |          | Sanjay Raviraj |
+| 3.1  | 27.06.2023      |          | Sanjay Raviraj       |
+| 3.2  | 27.06.2023      |          | Sanjay Raviraj       |
+| 4.1  | 27.06.2023      |          | Sanjay Raviraj       |
+| 4.2  | 27.06.2023      |          | Sanjay Raviraj       |
+| 4.3  | 27.06.2023      |          | Sanjay Raviraj       |
 
 
 
