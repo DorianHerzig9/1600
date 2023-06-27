@@ -7,11 +7,11 @@ cucumber, Meyer, Raviraj, Herzig
 | 09.05.2023 | 1.0.0   | Projektdokumentation erstellt und Planung ausgefüllt. Angefangen mit dem HTML-Index.|
 | 16.05.2023 | 2.0.0   | Use Case Diagramm verbessert und Planung ausgebaut.                                |
 | 23.05.2023 | 3.0.0   | Selbständiges Arbeiten.                                                             |
-| 30.05.2023 | 4.0.0   | Skizze zur Webseite ersellt.                                                        |
+| 30.05.2023 | 4.0.0   | Skizze zur Webseite erstellt.                                                        |
 | 06.06.2023 | 5.0.0   | Weiterarbeit an der Webseite.                                                       |
 | 13.06.2023 | 6.0.0   | Selbständiges Arbeiten.                                                             |
 | 20.06.2023 | 7.0.0   | Präsentation erstellt und vorgetragen.                                              |
-| 27.06.2023 | 8.0.0   | Projekt und Projekt-Dokumentation fertig stellen.                                  |
+| 27.06.2023 | 8.0.0   | Projekt und Projekt-Dokumentation fertigstellen.                                  |
 
 
 
@@ -21,24 +21,24 @@ cucumber, Meyer, Raviraj, Herzig
 
 wir wollen eine Website, die alle beliebten Filmen und Serien mit Beschreibungen und Rezensionen auflistet und erstellen.
 
-Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle populären Filme und Serien mit detaillierten Beschreibungen und Rezensionen auflistet. Das Projekt wird uns dabei helfen, unsere Webentwicklungsfähigkeiten zu verbessern, insbesondere in den Bereichen Front-End-Design und Back-End-Programmierung.Wir werden auch lernen, wie man eine skalierbare und benutzerfreundliche Website erstellt, die den Bedürfnissen der Nutzer gerecht wird.
+Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle populären Filme und Serien mit detaillierten Beschreibungen und Rezensionen auflistet. Das Projekt wird uns dabei helfen, unsere Webentwicklungsfähigkeiten zu verbessern, insbesondere in den Bereichen Front-End-Design und Back-End-Programmierung. Wir werden auch lernen, wie man eine skalierbare und benutzerfreundliche Website erstellt, die den Bedürfnissen der Nutzer gerecht wird.
 
-### 1.2 User Stories
+### 1.2 User Storys
 
 | US-№ | Verbindlichkeit | Typ        | Beschreibung                                                                                               |
 | ---- | --------------- | ---------- | ---------------------------------------------------------------------------------------------------------- |
-| 1    | Kann            | Funktional | Als Nutzer möchte ich einen Dark mode haben, damit ich meine Augen in der Nacht schonen kann.              |
-| 2    | Kann            | Funktional | Als Nutzer möchte ich auf die Thumbnails von Serie oder Filmes draufklicken können, um genauere Infos zu bekommen. |
-| 3    | Kann            | Funktional | Als Nutzer möchte ich einen Suchfilter haben, damit ich Filme und Serien die mir gefallen könnten finden kann.|
-| 4.1  | Kann            | Qualitativ | Als Nutzer möchte ich eine übersichtliche und gut designte Seite um mich besser zurecht zu finden.      |
+| 1    | Kann            | Funktional | Als Nutzer möchte ich einen Darkmode haben, damit ich meine Augen in der Nacht schonen kann.              |
+| 2    | Kann            | Funktional | Als Nutzer möchte ich auf die Thumbnails von Serie oder Filmes draufklicken können, um genauere Informationen zu bekommen. |
+| 3    | Kann            | Funktional | Als Nutzer möchte ich einen Suchfilter haben, damit ich Filme und Serien, die mir gefallen könnten, finden kann.|
+| 4.1  | Kann            | Qualitativ | Als Nutzer möchte ich eine übersichtliche und gut designte Seite, um mich besser zurechtzufinden.      |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage                                                | Eingabe                           | Erwartete Ausgabe                                                   |
 | ---- | ----------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------- |
 | 1.1  | Ich will auf die Webseite zugreifen                         | Öffnen der Webseite               | Ich kann auf die Homepage zugreifen                                 |
-| 1.2  | Ich will auf eine/n Serie/Film zugreifen                    | Klicken auf das Thumbnails        | Infos von der/m Serie/Film freigegeben                              |
-| 2.1  | 1.2 wurde betätigt und nun will ich auf die Infos zugreifen | Keine Eingabe nötig               | Ich kann auf alle Infos Zugreifen                                   |
+| 1.2  | Ich will auf eine/n Serie/Film zugreifen                    | Klicken auf das Thumbnails        | Informationen von der/m Serie/Film freigegeben                              |
+| 2.1  | 1.2 wurde betätigt und nun will ich auf die Informationen zugreifen | Keine Eingabe nötig               | Ich kann auf alle Informationen zugreifen                                   |
 | 3.1  | Ich will auf der Homepage auf einen Suchfilter zugreifen    | Das Draufklicken der Suchfilters  | Der Suchfilter gibt mir eine Auswahl von Suchmöglichkeiten(A-Z/0-9) |
 | 3.2  | 3.1 wurde ausgeführt                                        | Man klickt auf den Buchstaben "R" | Mir werden alle Filme mit "R" aufgelistet                           |
 
@@ -60,7 +60,7 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 | 2.E  | 23.5. | Raviraj   | Kurze Beschreibung und Genre für jeden Film und jede Serie erstellen.  | 45min   |
 | 2.F  | 23.5  | Meyer     | Rezensionen beim Klicken auf einen Bild anzeigen.                 | 60min         |
 | 3.A  | 30.5. | -          | Als Vorbereitung für Filter jedem Film eine ID oder ein Genre zuweisen. | 15min   |
-| 3.B  | 30.4  | -          | Filterfunktion erstellen, so dass nur gefilterte Filme und Serien angezeigt/ausgeblendet werden.    |    60min      |
+| 3.B  | 30.4  | -          | Filterfunktion erstellen, sodass nur gefilterte Filme und Serien angezeigt/ausgeblendet werden.    |    60min      |
 | 4.A  | 9.5.  | Raviraj   | Einige Farben, Schriftarten und evtl. Icons festlegen.      | 20min         |
 | 4.B  | 9.5.  | Meyer     | Grobe Design Ideen erarbeiten.                              | 30min         |
 | 4.C  | 9.5.  | Raviraj   | Verschieden Farbpaletten testen.                            | 20min         |
@@ -70,7 +70,7 @@ Total:
 
 ## 3 Entscheiden
 
-1. Dark Mode: Wir haben uns dafür entschieden, einen Dark-Mode in die Website zu integrieren, um den Nutzern die Möglichkeit zu geben, die Augen bei nächtlicher Nutzung zu schonen. Wir gehen davon aus, dass dies die Benutzerfreundlichkeit und das visuelle Erlebnis verbessern wird.
+1. Dark Mode: Wir haben uns dafür entschieden, einen Dark Mode in die Website zu integrieren, um den Nutzern die Möglichkeit zu geben, die Augen bei nächtlicher Nutzung zu schonen. Wir gehen davon aus, dass dies die Benutzerfreundlichkeit und das visuelle Erlebnis verbessern wird.
 
 2. Thumbnails für Filme und Serien: Wir haben beschlossen, Thumbnails für Filme und Serien in der Website einzufügen, damit die Benutzer durch Klicken auf die Thumbnails detailliertere Informationen erhalten. Wir gehen davon aus, dass dies den Nutzern dabei helfen wird, ihre gewünschten Filme oder Serien leichter zu finden und darauf zuzugreifen.
 
