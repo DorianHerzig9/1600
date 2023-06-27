@@ -5,12 +5,12 @@ cucumber, Meyer, Raviraj, Herzig
 | Datum      | Version | Zusammenfassung                                                                     |
 | ---------- | ------- | ----------------------------------------------------------------------------------- |
 | 09.05.2023 | 1.0.0   | Projektdokumentation erstellt und Planung ausgefüllt. Angefangen mit dem HTML-index.|
-| 16.05.2023 | 2.0.0   |                                                                                     |
-| 23.05.2023 | 3.0.0   |                                                                                     |
-| 30.05.2023 | 4.0.0   |                                                                                     |
-| 06.06.2023 | 5.0.0   |                                                                                     |
-| 13.06.2023 | 6.0.0   |                                                                                     |
-| 20.06.2023 | 7.0.0   |                                                                                     |
+| 16.05.2023 | 2.0.0   | Use Cases Diagramm verbessert und Planung ausgebaut.                                |
+| 23.05.2023 | 3.0.0   | Selbstendiges Arbeiten.                                                             |
+| 30.05.2023 | 4.0.0   | Skitze zur Webseite ersellt.                                                        |
+| 06.06.2023 | 5.0.0   | Weiterarbeit an der Webseite.                                                       |
+| 13.06.2023 | 6.0.0   | Selbstendiges Arbeiten.                                                             |
+| 20.06.2023 | 7.0.0   | Präsentation erstellt und vorgetragen.                                              |
 | 27.06.2023 | 8.0.0   | Projekt und Projekt-Dokumentation fertich stellen.                                  |
 
 
@@ -30,7 +30,7 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 | 1    | Kann            | Funktional | Als Nutzer möchte ich einen Dark mode haben, damit ich meine Augen in der Nacht schonen kann.              |
 | 2    | Kann            | Funktional | Als Nutzer möchte ich auf die Thumbnails von Serie oder Filmes draufklicken können, um genauere Infos zu bekommen. |
 | 3    | Kann            | Funktional | Als Nutzer möchte ich einen Suchfilter haben, damit ich Filme und Serien die mir gefallen könnten finden kann.|
-| 4.1    | Kann            | Qualitativ | Als Nutzer möchte ich eine übersichtliche und gut designte Seite um mich besser zurecht zu finden.      |
+| 4.1  | Kann            | Qualitativ | Als Nutzer möchte ich eine übersichtliche und gut designte Seite um mich besser zurecht zu finden.      |
 
 ### 1.3 Testfälle
 
