@@ -63,7 +63,7 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 | 3.B  | 30.4  |           | Filterfunktion erstellen sodass nur gefilterte Filme und serien angezeigt/ausgeblendet werden    |    60min      |
 | 4.A  | 9.5.  | Raviraj   | Einige Farben, schriftarten und evt. Icons festlegen      | 20min         |
 | 4.B  | 9.5.  | Meyer     | Grobe design Ideen erarbeiten                              | 30min         |
-| 4.B  | 9.5.  | Raviraj   | Verschieden Farbpaletten testen                            | 20min         |
+| 4.C  | 9.5.  | Raviraj   | Verschieden Farbpaletten testen                            | 20min         |
 
 
 Total:
@@ -88,8 +88,20 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
+| 0.1  |       |          |        |
 | 1.1  |       |          |        |
-| ...  |       |          |        |
+| 2.1  |       |          |        |
+| 2.2  |       |          |        |
+| 2.3  |       |          |        |
+| 2.4  |       |          |        |
+| 2.5  |       |          |        |
+| 2.6  |       |          |        |
+| 3.1  |       |          |        |
+| 3.2  |       |          |        |
+| 4.1  |       |          |        |
+| 4.2  |       |          |        |
+| 4.3  |       |          |        |
+
 
 
 ## 6 Auswerten
