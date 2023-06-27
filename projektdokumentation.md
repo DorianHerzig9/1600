@@ -59,8 +59,8 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 | 2.D  | 16.5  | Raviraj   | Rezensionen für Filmen und Serien suchen.                             | 20min         |
 | 2.E  | 23.5. | Raviraj   | Kurze Beschreibung und Genre für jeden Film und jede Serie erstellen.  | 45min   |
 | 2.F  | 23.5  | Meyer     | Rezensionen beim Klicken auf einen Bild anzeigen.                 | 60min         |
-| 3.A  | 30.5. |           | Als Vorbereitung für Filter jedem Film eine ID oder ein Genre zuweisen. | 15min   |
-| 3.B  | 30.4  |           | Filterfunktion erstellen, so dass nur gefilterte Filme und Serien angezeigt/ausgeblendet werden.    |    60min      |
+| 3.A  | 30.5. | -          | Als Vorbereitung für Filter jedem Film eine ID oder ein Genre zuweisen. | 15min   |
+| 3.B  | 30.4  | -          | Filterfunktion erstellen, so dass nur gefilterte Filme und Serien angezeigt/ausgeblendet werden.    |    60min      |
 | 4.A  | 9.5.  | Raviraj   | Einige Farben, Schriftarten und evtl. Icons festlegen.      | 20min         |
 | 4.B  | 9.5.  | Meyer     | Grobe Design Ideen erarbeiten.                              | 30min         |
 | 4.C  | 9.5.  | Raviraj   | Verschieden Farbpaletten testen.                            | 20min         |
