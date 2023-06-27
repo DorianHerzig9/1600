@@ -19,7 +19,8 @@ Für unsere Seite haben wir das verwendet um das Bild unter einer Leicht Transpa
 
 2.Schaffung von Tiefe: Die Reflexion erzeugt eine zusätzliche Dimension und verleiht dem Bild mehr Tiefe. Dies kann dazu beitragen, dass das Bild interessanter und ansprechender wirkt.
 
-3. Hervorhebung der Textbox: Durch die Platzierung des gespiegelten Bildes unter der Textbox konnten wir die Aufmerksamkeit auf die Textinhalte lenken. Da das Auge oft von natürlichen Reflexionen angezogen wird, wird der Betrachter dazu verleitet, den Text zu lesen und sich mit den Informationen in der Textbox zu beschäftigen.
+3. Hervorhebung der Textbox: Durch die Platzierung des gespiegelten Bildes unter der Textbox konnten wir die Aufmerksamkeit auf die Textinhalte lenken. Da das Auge oft von natürlichen Reflexionen angezogen wird,
+wird der Betrachter dazu verleitet, den Text zu lesen und sich mit den Informationen in der Textbox zu beschäftigen.
 
 Dies sieht dann Folgendermassen aus:
 ![Screenshot 2023-06-27 095559](https://github.com/DorianHerzig9/1600/assets/77541325/8d3823f4-9bf1-4eb4-91b0-a475ee0bb025)
