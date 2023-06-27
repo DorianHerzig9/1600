@@ -66,15 +66,6 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 | 4.B  | 9.5.  | Raviraj   | Verschieden Farbpaletten testen                            | 20min         |
 
 
-
-
-| ...  |       |           |                                                           |               |
-| ...  |       |           |                                                           |               |
-| ...  |       |           |                                                           |               |
-| ...  |       |           |                                                           |               |
-| ...  |       |           |                                                           |               |
-| ...  |       |           |                                                           |               |
-
 Total:
 
 ## 3 Entscheiden
