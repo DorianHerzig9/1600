@@ -4,14 +4,14 @@ cucumber, Meyer, Raviraj, Herzig
 
 | Datum      | Version | Zusammenfassung                                                                     |
 | ---------- | ------- | ----------------------------------------------------------------------------------- |
-| 09.05.2023 | 1.0.0   | Projektdokumentation erstellt und Planung ausgefüllt. Angefangen mit dem HTML-index.|
-| 16.05.2023 | 2.0.0   | Use Cases Diagramm verbessert und Planung ausgebaut.                                |
-| 23.05.2023 | 3.0.0   | Selbstendiges Arbeiten.                                                             |
-| 30.05.2023 | 4.0.0   | Skitze zur Webseite ersellt.                                                        |
+| 09.05.2023 | 1.0.0   | Projektdokumentation erstellt und Planung ausgefüllt. Angefangen mit dem HTML-Index.|
+| 16.05.2023 | 2.0.0   | Use Case Diagramm verbessert und Planung ausgebaut.                                |
+| 23.05.2023 | 3.0.0   | Selbständiges Arbeiten.                                                             |
+| 30.05.2023 | 4.0.0   | Skizze zur Webseite ersellt.                                                        |
 | 06.06.2023 | 5.0.0   | Weiterarbeit an der Webseite.                                                       |
-| 13.06.2023 | 6.0.0   | Selbstendiges Arbeiten.                                                             |
+| 13.06.2023 | 6.0.0   | Selbständiges Arbeiten.                                                             |
 | 20.06.2023 | 7.0.0   | Präsentation erstellt und vorgetragen.                                              |
-| 27.06.2023 | 8.0.0   | Projekt und Projekt-Dokumentation fertich stellen.                                  |
+| 27.06.2023 | 8.0.0   | Projekt und Projekt-Dokumentation fertig stellen.                                  |
 
 
 
