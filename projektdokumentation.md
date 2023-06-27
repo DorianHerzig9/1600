@@ -80,8 +80,19 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 0.A  | 6.5.  |  Herzig   |30min|29min|
+| 1.A  | 16.5. |  Meyer    |30min|28min|
+| 2.A  | 16.5. |  Herzig   |45min|53min|
+| 2.B  | 16.5. |  Meyer    |10min|15min|
+| 2.C  | 23.5. |  Herzig   |15min|20min|
+| 2.D  | 16.5. |  Raviraj  |20min|22min|
+| 2.E  | 23.5. |  Raviraj  |45min|40min|
+| 2.F  | 23.5. |  Meyer    |60min|56min|
+| 3.A  | 30.5. |  -----    |15min|--min|
+| 3.B  | 30.4. |  -----    |60min|--min|
+| 4.A  | 9.5.  |  Raviraj  |20min|20min|
+| 4.B  | 9.5.  |  Meyer    |30min|25min|
+| 4.C  | 9.5.  |  Raviraj  |20min|24min|
 
 
 ## 5 Kontrollieren
