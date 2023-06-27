@@ -51,26 +51,26 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 
 | AP-№ | Frist | Zuständig | Beschreibung                                              | geplante Zeit |
 | ---- | ----- | --------- | --------------------------------------------------------- | ------------- |
-| 0.A  | 9.5.  | Herzig    | Website erstellen und auf github Pages veröffentlichen    | 30min         |
-| 1.A  | 16.5. | Meyer     | Button für Darkmode implementieren                        | 30min         |
-| 2.A  | 16.5  | Herzig    | Liste Mit Filmen und Serien erstellen                     | 45min         |
-| 2.B  | 16.5. | Meyer     | Thumbnails in geeigneten Grössen und Formaten suchen      | 10min         |
-| 2.C  | 23.5. | Herzig    | Bilder einfügen                                           | 15min         |
-| 2.D  | 16.5  | Raviraj   | Rezensionen für Animes Suchen                             | 20min         |
-| 2.E  | 23.5. | Raviraj   | Kurze Beschreibung un Genre für jeden Film und jede Serie erstellen  | 45min   |
-| 2.F  | 23.5  | Meyer     | Rezensionen bei klicken auf Bild anzeigen                 | 60min         |
-| 3.A  | 30.5. |           | Als vorbereitung für filter jedem Film eine ID oder ein Genre zuweisen| 15min   |
-| 3.B  | 30.4  |           | Filterfunktion erstellen sodass nur gefilterte Filme und serien angezeigt/ausgeblendet werden    |    60min      |
-| 4.A  | 9.5.  | Raviraj   | Einige Farben, schriftarten und evt. Icons festlegen      | 20min         |
-| 4.B  | 9.5.  | Meyer     | Grobe design Ideen erarbeiten                              | 30min         |
-| 4.C  | 9.5.  | Raviraj   | Verschieden Farbpaletten testen                            | 20min         |
+| 0.A  | 9.5.  | Herzig    | Website erstellen und auf Github Pages veröffentlichen.    | 30min         |
+| 1.A  | 16.5. | Meyer     | Button für Darkmode implementieren.                        | 30min         |
+| 2.A  | 16.5  | Herzig    | Liste mit Filmen und Serien erstellen.                     | 45min         |
+| 2.B  | 16.5. | Meyer     | Thumbnails in geeigneten Grössen und Formaten suchen.      | 10min         |
+| 2.C  | 23.5. | Herzig    | Bilder einfügen.                                           | 15min         |
+| 2.D  | 16.5  | Raviraj   | Rezensionen für Filmen und Serien suchen.                             | 20min         |
+| 2.E  | 23.5. | Raviraj   | Kurze Beschreibung und Genre für jeden Film und jede Serie erstellen.  | 45min   |
+| 2.F  | 23.5  | Meyer     | Rezensionen beim Klicken auf einen Bild anzeigen.                 | 60min         |
+| 3.A  | 30.5. |           | Als Vorbereitung für Filter jedem Film eine ID oder ein Genre zuweisen. | 15min   |
+| 3.B  | 30.4  |           | Filterfunktion erstellen, so dass nur gefilterte Filme und Serien angezeigt/ausgeblendet werden.    |    60min      |
+| 4.A  | 9.5.  | Raviraj   | Einige Farben, Schriftarten und evtl. Icons festlegen.      | 20min         |
+| 4.B  | 9.5.  | Meyer     | Grobe Design Ideen erarbeiten.                              | 30min         |
+| 4.C  | 9.5.  | Raviraj   | Verschieden Farbpaletten testen.                            | 20min         |
 
 
 Total:
 
 ## 3 Entscheiden
 
-1. Dark Mode: Wir haben uns dafür entschieden, einen Dark Mode in die Website zu integrieren, um den Nutzern die Möglichkeit zu geben, die Augen bei nächtlicher Nutzung zu schonen. Wir gehen davon aus, dass dies die Benutzerfreundlichkeit und das visuelle Erlebnis verbessern wird.
+1. Dark Mode: Wir haben uns dafür entschieden, einen Dark-Mode in die Website zu integrieren, um den Nutzern die Möglichkeit zu geben, die Augen bei nächtlicher Nutzung zu schonen. Wir gehen davon aus, dass dies die Benutzerfreundlichkeit und das visuelle Erlebnis verbessern wird.
 
 2. Thumbnails für Filme und Serien: Wir haben beschlossen, Thumbnails für Filme und Serien in der Website einzufügen, damit die Benutzer durch Klicken auf die Thumbnails detailliertere Informationen erhalten. Wir gehen davon aus, dass dies den Nutzern dabei helfen wird, ihre gewünschten Filme oder Serien leichter zu finden und darauf zuzugreifen.
 
@@ -88,19 +88,19 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 0.1  | 27.06.2023 |          | Sanjay Raviraj |
-| 1.1  | 27.06.2023      |          | Sanjay Raviraj |
-| 2.1  | 27.06.2023      |          | Sanjay Raviraj |
-| 2.2  | 27.06.2023      |          | Sanjay Raviraj |
-| 2.3  | 27.06.2023      |          | Sanjay Raviraj |
-| 2.4  | 27.06.2023      |          | Sanjay Raviraj |
-| 2.5  | 27.06.2023      |          | Sanjay Raviraj |
-| 2.6  | 27.06.2023      |          | Sanjay Raviraj |
-| 3.1  | 27.06.2023      |          | Sanjay Raviraj       |
-| 3.2  | 27.06.2023      |          | Sanjay Raviraj       |
-| 4.1  | 27.06.2023      |          | Sanjay Raviraj       |
-| 4.2  | 27.06.2023      |          | Sanjay Raviraj       |
-| 4.3  | 27.06.2023      |          | Sanjay Raviraj       |
+| 0.1  | 27.06.2023 |  Ok        | Sanjay Raviraj |
+| 1.1  | 27.06.2023      |  Ok        | Sanjay Raviraj |
+| 2.1  | 27.06.2023      |  Ok        | Sanjay Raviraj |
+| 2.2  | 27.06.2023      |  Ok       | Sanjay Raviraj |
+| 2.3  | 27.06.2023      |  Ok        | Sanjay Raviraj |
+| 2.4  | 27.06.2023      |  Ok        | Sanjay Raviraj |
+| 2.5  | 27.06.2023      |  Ok        | Sanjay Raviraj |
+| 2.6  | 27.06.2023      |  Ok        | Sanjay Raviraj |
+| 3.1  | 27.06.2023      | Nok         | Sanjay Raviraj       |
+| 3.2  | 27.06.2023      | Nok         | Sanjay Raviraj       |
+| 4.1  | 27.06.2023      | Ok         | Sanjay Raviraj       |
+| 4.2  | 27.06.2023      | Ok        | Sanjay Raviraj       |
+| 4.3  | 27.06.2023      | Ok         | Sanjay Raviraj       |
 
 
 
