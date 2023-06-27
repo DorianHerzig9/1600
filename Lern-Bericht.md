@@ -29,10 +29,9 @@ Das "mask-box-image" Attribut ist eine optionale Eigenschaft, mit der ein Bild a
 Das "mask-border-outset" Attribut ist ebenfalls optional und definiert den Abstand zwischen dem Maskenbild und dem Rand der Reflexion.
 
 
-
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Das Bild zeigt das Resultat in unserer webseite, der Code und die Textveschreibung zeigen die gelernte syntax auf
 
 # Reflexion zum Arbeitsprozess
 
