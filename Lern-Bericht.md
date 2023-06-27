@@ -23,10 +23,10 @@ Folgende Syntax wird dafür verwendet:
 box-reflect: <direction> <offset> <mask-box-image> <mask-border-outset>;
 ```
 
-Das "<direction>" Attribut gibt die Richtung der Reflexion an und kann entweder "above" (oben), "below" (unten), "left" (links) oder "right" (rechts) sein.
-Das <offset> Attribut definiert den Abstand zwischen dem Element und der Reflexion. Er kann in absoluten Einheiten (z. B. Pixel) oder in relativen Einheiten (z. B. %) angegeben werden.
-Das <mask-box-image> Attribut ist eine optionale Eigenschaft, mit der ein Bild als Maske für die Reflexion festgelegt werden kann. Dadurch kann die Reflexion zum Beispiel einen Verlauf oder eine Textur aufweisen.
-Das <mask-border-outset> Attribut ist ebenfalls optional und definiert den Abstand zwischen dem Maskenbild und dem Rand der Reflexion.
+Das "direction" Attribut gibt die Richtung der Reflexion an und kann entweder "above" (oben), "below" (unten), "left" (links) oder "right" (rechts) sein.
+Das "offset" Attribut definiert den Abstand zwischen dem Element und der Reflexion. Er kann in absoluten Einheiten (z. B. Pixel) oder in relativen Einheiten (z. B. %) angegeben werden.
+Das "mask-box-image" Attribut ist eine optionale Eigenschaft, mit der ein Bild als Maske für die Reflexion festgelegt werden kann. Dadurch kann die Reflexion zum Beispiel einen Verlauf oder eine Textur aufweisen.
+Das "mask-border-outset" Attribut ist ebenfalls optional und definiert den Abstand zwischen dem Maskenbild und dem Rand der Reflexion.
 
 
 
