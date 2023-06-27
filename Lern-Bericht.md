@@ -37,7 +37,7 @@ Das Bild zeigt das Resultat in unserer webseite, der Code und die Textveschreibu
 
 👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
 
-👎 und etwas, was nicht gut lief.
+Die Kommunikation und Zusammenarbeit verlief anfangs sehr schlecht.
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
 
