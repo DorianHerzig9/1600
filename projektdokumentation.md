@@ -38,16 +38,14 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 
 ### 1.4 Diagramme
 
-![image]<img width="323" alt="image" src="https://github.com/DorianHerzig9/1600/assets/110893245/3b54601e-0526-4b8a-85f3-41693a4be6da">
-
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+<img width="323" alt="image" src="https://github.com/DorianHerzig9/1600/assets/110893245/3b54601e-0526-4b8a-85f3-41693a4be6da">
 
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung                                              | geplante Zeit |
 | ---- | ----- | --------- | --------------------------------------------------------- | ------------- |
 | 0.A  | 9.5.  | Herzig    | Website erstellen und auf github Pages veröffentlichen    | 30min         |
-| 1.A  | 16.5. | Meyer     | Button für Darkmode implementieren                       | 30min         |
+| 1.A  | 16.5. | Meyer     | Button für Darkmode implementieren                        | 30min         |
 | 2.A  | 16.5  | Herzig    | Liste Mit Filmen und Serien erstellen                     | 45min         |
 | 2.B  | 16.5. | Meyer     | Thumbnails in geeigneten Grössen und Formaten suchen      | 10min         |
 | 2.C  | 23.5. | Herzig    | Bilder einfügen                                           | 15min         |
@@ -73,8 +71,6 @@ Das Ziel dieses Projekts ist es, eine umfassende Website zu erstellen, die alle 
 Total:
 
 ## 3 Entscheiden
-
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
 1. Dark Mode: Wir haben uns dafür entschieden, einen Dark Mode in die Website zu integrieren, um den Nutzern die Möglichkeit zu geben, die Augen bei nächtlicher Nutzung zu schonen. Wir gehen davon aus, dass dies die Benutzerfreundlichkeit und das visuelle Erlebnis verbessern wird.
 
