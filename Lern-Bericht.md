@@ -13,7 +13,9 @@ Wir haben gelernt wie man CSS Image Reflection verwendet und implementiert.
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-
+```css
+box-reflect: <direction> <offset> <mask-box-image> <mask-border-outset>;
+```
 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
