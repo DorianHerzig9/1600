@@ -13,9 +13,7 @@ Wir haben gelernt wie man CSS Image Reflection verwendet und implementiert.
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-<img src=""C:\Users\admin\Desktop\Screenshot 2023-06-27 095559.jpg"">
-
-
+<img scr:"C:\Users\admin\Desktop\Screenshot 2023-06-27 095559.jpg" >
 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
@@ -33,3 +31,4 @@ Wir haben gelernt wie man CSS Image Reflection verwendet und implementiert.
 👎 und etwas, was nicht gut lief.
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+
