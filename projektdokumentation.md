@@ -117,4 +117,4 @@ Total:
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/DorianHerzig9/1600/blob/main/Lern-Bericht.md
